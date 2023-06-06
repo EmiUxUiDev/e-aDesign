@@ -1,0 +1,5 @@
+header h3{
+    font-family: var(--font-1);
+    background-color: var(--clr-primary);
+    color: var(--clr-neutral);
+}

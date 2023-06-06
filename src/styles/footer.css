@@ -1,0 +1,5 @@
+footer h3{
+    font-family: var(--font-2);
+    background-color: var(--clr-secondary);
+    color: var(--clr-neutral);
+}
